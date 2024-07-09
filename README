@@ -1,1 +1,31 @@
-Trabalho para a Disciplina de Tópicos Avançados IV
+# Detecção de Fake News - Protótipo e Potencial Comercialização
+
+## Visão Geral
+
+Este projeto visa explorar o uso de modelos de inteligência artificial para detectar notícias falsas em redes sociais e potencialmente transformar essa solução em um plugin comercializável, desenvolvido como Trabalho para a Disciplina de Tópicos Avançados V.
+
+## Problema
+
+Com o crescimento das fake news nas redes sociais, há uma demanda crescente por ferramentas que possam ajudar os usuários a identificar informações enganosas.
+
+## Solução Proposta
+
+A inspiração para este projeto vem da necessidade de combater a propagação de fake news, semelhante ao [FackeCheck](https://nilc-fakenews.herokuapp.com/about), com o desenvolvimento de um plugin que seja compatível com redes sociais populares.
+
+## Ideias de Funcionalidades
+
+- Indicação em tempo real de notícias potencialmente falsas
+
+## Potencial de Comercialização
+
+- Transformação do protótipo em uma ferramenta comercializável
+- Integração como plugin diretamente nas plataformas de redes sociais
+
+## Passos Futuros
+
+- Exploração de modelos de IA específicos para detecção de fake news em português
+- Desenvolvimento de uma aplicação web para análise de texto de notícias
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, novas funcionalidades ou colaborar no desenvolvimento deste projeto.
